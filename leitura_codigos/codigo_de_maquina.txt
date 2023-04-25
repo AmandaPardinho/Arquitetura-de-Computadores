@@ -1,0 +1,13 @@
+O CÓDIGO DE MÁQUINA
+
+-Linguagem de alto nível: linguagens de programação que conseguimos ler
+-Código de máquina: instruções que podem ser entendidas pelo computador
+    -O computador não usa o código de máquina, mas sim um código binário (sequência de zeros e uns)
+        -um: corresponde ao componente em que a eletricidade está passando (ligado)
+        -zero: corresponde ao componente em que a eletricidade não está passando (desligado)
+    -Cada zero e um é chamado de bit
+        -O bit é a menor unidade possível para o armazenamento de informação
+    -Um grupo composto por 8 bits gera 1 byte
+        -O byte é a unidade usada para medir o armazenamento em um computador.
+        -1 B (byte) = 8 b (bit)
+
